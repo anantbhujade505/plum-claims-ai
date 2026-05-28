@@ -80,7 +80,7 @@ All 12 test cases from `test_cases.json` pass:
 | Frontend | Next.js 16 + TypeScript | Full-stack in one repo, React-based |
 | Styling | Tailwind CSS + custom CSS | Premium dark UI with glassmorphism |
 | Backend | Next.js API Routes | Serverless-ready, same deployment |
-| Deployment | Vercel | One-click deploy for Next.js |
+| Deployment | Github |
 
 ## 📁 Project Structure
 

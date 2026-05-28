@@ -160,6 +160,4 @@ The per-claim limit (₹5,000) applies to claims where all items are eligible. F
 
 ## 👤 Author
 
-Built by **Anant N.** for the AI Engineer role at Plum.
-
-Built using **Antigravity (Claude AI)** — demonstrating the JD's principle of "Use AI to build AI."
+Built by **Anant Bhujade**
